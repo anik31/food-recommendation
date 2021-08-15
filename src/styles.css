@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+}
+:root {
+  --primary-color: #34d399;
+  --focus-text: tan;
+  --off-white: #f8f0e3;
+}
+hr {
+  border: 1px solid var(--focus-text);
+}
+img {
+  width: 100px;
+  padding: 1rem 0rem 1rem 1rem;
+}
+li {
+  list-style: none;
+  display: flex;
+  border-radius: 1rem;
+  margin: 1rem;
+  background-color: var(--off-white);
+}
+button {
+  background-color: var(--focus-text);
+  border-radius: 0.5rem;
+  max-width: 100px;
+  border: none;
+  padding: 0.8rem;
+  margin: 1rem;
+  cursor: pointer;
+}
+h1 {
+  text-align: center;
+  color: var(--focus-text);
+}
+h4 {
+  text-align: center;
+}
+.content {
+  padding: 0rem 1rem;
+}

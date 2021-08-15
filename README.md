@@ -1,4 +1,4 @@
-# Emoji Interpreter
+# Food Recommendation
 
 A React.js app to find a list of food items recommended by me.
 
